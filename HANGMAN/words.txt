@@ -1,0 +1,10 @@
+pizza
+tacos
+chawarma
+juice
+apple
+pineapple
+orange
+blueberry
+
+
